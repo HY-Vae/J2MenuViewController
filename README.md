@@ -11,31 +11,10 @@
 
 ### 🏠 [biubiu-颜值超高的浏览器](https://apps.apple.com/cn/app/id1474593656)
 
-## Install
-
-```sh
-git clone https://github.com/whatsbug/J2MenuViewController.git
-```
-
 ## Preview
 
 ![preview](/preview.gif) 
 
-## Author
-
-👤 **whatsbug**
-
-* Github: [@whatsbug](https://github.com/whatsbug)
-* Weibo: [@biubiu浏览器](https://weibo.com/nantuapp)
-
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/whatsbug/J2MenuViewController/issues).
-
 ## Show your support
 
 如果这个项目对你有帮助的话，给颗小⭐️⭐️呗！(其实不给也没关系的🐶)
-
-## 📝 License
-
-版权 ©2019 [@biubiu浏览器](https://weibo.com/nantuapp).
